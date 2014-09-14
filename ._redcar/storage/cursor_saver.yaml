@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: app/controllers/pages_controller.rb
+    :cursor_offset: 59
+    :timestamp: 2014-09-14 16:26:07.483000 +01:00
+  - :path: spec/views/pages/home.html.erb_spec.rb
+    :cursor_offset: 0
+    :timestamp: 2014-09-14 14:22:41.776000 +01:00
+  - :path: spec/helpers/pages_helper_spec.rb
+    :cursor_offset: 0
+    :timestamp: 2014-09-14 14:22:41.741000 +01:00
+files_to_retain: 0
