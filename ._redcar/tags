@@ -1,4 +1,4 @@
-1410728609
+1411338652
 Application	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -14,6 +14,8 @@ home	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/app/controller
 returns http success	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/spec/controllers/pages_controller_spec.rb	it "returns http success" do
 returns http success	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/spec/controllers/pages_controller_spec.rb	it "returns http success" do
 returns http success	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/spec/controllers/pages_controller_spec.rb	it "returns http success" do
+should have a none-blank body	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/spec/controllers/pages_controller_spec.rb	it "should have a none-blank body" do
 should have the right title	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/spec/controllers/pages_controller_spec.rb	it "should have the right title" do
 should have the right title	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/spec/controllers/pages_controller_spec.rb	it "should have the right title" do
 should have the right title	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/spec/controllers/pages_controller_spec.rb	it "should have the right title" do
+title	C:/Users/Eben/Documents/Aptana Studio 3 Workspace/sample_app/app/helpers/application_helper.rb	  def title
